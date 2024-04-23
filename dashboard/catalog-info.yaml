@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: sasinda/dashboard
 spec:
-  type: other
-  lifecycle: unknown
+  type: click service
+  lifecycle: production deployed
   owner: sasinda
