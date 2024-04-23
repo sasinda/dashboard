@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: sasinda/dashboard
 spec:
   type: click service
-  lifecycle: production deployed
+  lifecycle: production 
   owner: sasinda
